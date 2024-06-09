@@ -68,8 +68,8 @@ Travel and adventure are also close to my heart. I love exploring different coun
 
 | Language/Framework | Proficiency |
 |--------------------|-------------|
-| [![Python](https://img.shields.io/badge/Python-90%25-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3AYOUR_GITHUB_USERNAME+language%3APython&type=repositories) | ![90%](https://progress-bar.dev/90) |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3AYOUR_GITHUB_USERNAME+language%3AJavaScript&type=repositories) | ![85%](https://progress-bar.dev/85) |
-| [![Django](https://img.shields.io/badge/Django-80%25-092e20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/search?q=user%3AYOUR_GITHUB_USERNAME+django&type=repositories) | ![80%](https://progress-bar.dev/80) |
-| [![Flask](https://img.shields.io/badge/Flask-75%25-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=user%3AYOUR_GITHUB_USERNAME+flask&type=repositories) | ![75%](https://progress-bar.dev/75) |
-| [![HTML & CSS](https://img.shields.io/badge/HTML%20&%20CSS-95%25-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3AYOUR_GITHUB_USERNAME+language%3AHTML+language%3ACSS&type=repositories) | ![95%](https://progress-bar.dev/95) |
+| [![Python](https://img.shields.io/badge/Python-90%25-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3APavelLakov+language%3APython&type=repositories) | ![90%](https://progress-bar.dev/90) |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3APavelLakov+language%3AJavaScript&type=repositories) | ![85%](https://progress-bar.dev/85) |
+| [![Django](https://img.shields.io/badge/Django-80%25-092e20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/search?q=user%3APavelLakov+django&type=repositories) | ![80%](https://progress-bar.dev/80) |
+| [![Flask](https://img.shields.io/badge/Flask-75%25-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=user%3APavelLakov+flask&type=repositories) | ![75%](https://progress-bar.dev/75) |
+| [![HTML & CSS](https://img.shields.io/badge/HTML%20&%20CSS-95%25-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3APavelLakov+language%3AHTML+language%3ACSS&type=repositories) | ![95%](https://progress-bar.dev/95) |
