@@ -1,5 +1,5 @@
  ## Hi there! I'm Pavel Lakov
-![Pavel Lakov](https://raw.githubusercontent.com/PavelLako/YOUR_REPOSITORY/main/PATH_TO_IMAGE/about.jpg)
+![Pavel Lakov](./about.jpg)
 
 I'm Pavel from Germany, a dedicated developer with a deep passion for both frontend and backend development. My journey through code and design has led me to explore a variety of languages and frameworks, each adding a new layer of expertise to my skill set.
 
