@@ -14,6 +14,34 @@ I'm Pavel from Germany, a dedicated developer with a deep passion for both front
 - **JavaScript:** Essential for making the web interactive.
 - **Django & Flask:** Two of my favorite frameworks for building powerful and efficient applications.
 - **HTML & CSS:** The foundation of every great web interface.
+### Language Proficiency
+
+Here's a visual representation of my proficiency with various technologies:
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Python-90%25-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Proficiency" style="margin-right: 10px;" />
+  
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Proficiency" style="margin-right: 10px;" />
+ 
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Django-80%25-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django Proficiency" style="margin-right: 10px;" />
+  
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/Flask-75%25-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Proficiency" style="margin-right: 10px;" />
+  
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-95%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS Proficiency" style="margin-right: 10px;" />
+  
+</div>
 
 ### A Bit About Me:
 When I'm not coding, I thrive on seeking out new challenges and learning opportunities. I have a deep appreciation for the great outdoors, whether it’s hiking through lush forests, cycling across scenic trails, or playing a game of soccer. I find that engaging in sports and outdoor activities helps to clear my mind and inspire my creativity.
