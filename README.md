@@ -56,7 +56,6 @@ Here's a visual representation of my proficiency with various technologies:
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelLakov&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ### A Bit About Me:
 When I'm not coding, I thrive on seeking out new challenges and learning opportunities. I have a deep appreciation for the great outdoors, whether it’s hiking through lush forests, cycling across scenic trails, or playing a game of soccer. I find that engaging in sports and outdoor activities helps to clear my mind and inspire my creativity.
