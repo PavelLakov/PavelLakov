@@ -28,7 +28,7 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - **Video Compressor**- video compression tool built with Gradio for the user interface and FFmpeg for the actual compression.[Repo](<https://github.com/PavelLakov/Video-Compressor>)
 
 ### Tech I rely on
-`Python` · `FastAPI` · `Django` · `Flask` ·,`JavaScript`, `TypeScript` · `React` · `Node.js` · `HTML/CSS/Tailwind` · `PostgreSQL` , `Docker` · `GitHub Actions` · `AWS` · `Hugging Face`
+`Python` · `FastAPI` · `Django` · `Flask` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `HTML/CSS/Tailwind` · `PostgreSQL` · `MongoDB` · `Vector DBs (Pinecone/Chroma)` · `Docker` · `Hugging Face` · `OpenAI API` · `LangChain`
 
 ### How I work
 - Pragmatic, test‑first APIs with clear contracts.
