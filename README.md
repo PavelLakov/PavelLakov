@@ -5,7 +5,7 @@ I'm Pavel from Germany, a dedicated developer with a deep passion for both front
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Modern-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://pavellakopv.netlify.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://pavel-react-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-lakov)  <!-- update if your handle differs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pavel-lakov](https://www.linkedin.com/in/pavellakov/))  
 [![Space](https://img.shields.io/badge/Space-Image%20Downloader-F9D371?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/image-downloader-web)
 [![Space](https://img.shields.io/badge/Space-YouTube%20Playlist%20Downloader-ff5f6d?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader)
 
