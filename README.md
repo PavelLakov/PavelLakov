@@ -19,8 +19,8 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 
 ### Recent work
 - **Image Downloader Web** — Streamlit app that resolves photo pages to direct images via oEmbed + heuristics. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
-- **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<link>)
-- **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<link>)
+- **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<[link](https://github.com/PavelLakov/-Video-Converter)>)
+- **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<[link](https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder)>)
 - **RAG Demo** — Embeddings + vector search over docs with a small FastAPI backend. [Repo](<link>)
 
 ### Tech I rely on
@@ -41,4 +41,4 @@ Trail runs, cycling, football; travel for fresh ideas and perspective.
 
 ### Contact
 - Email: <pavel.lakov@gmail.com>
-- LinkedIn: <[your-linkedin-lin](https://www.linkedin.com/in/pavellakov/)k>
+- LinkedIn: <[your-linkedin-lin](https://www.linkedin.com/in/pavellakov/)>
