@@ -40,5 +40,5 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 Trail runs, cycling, football; travel for fresh ideas and perspective.
 
 ### Contact
-- Email: <your email>
-- LinkedIn: <your-linkedin-link>
+- Email: <pavel.lakov@gmail.com>
+- LinkedIn: <[your-linkedin-lin](https://www.linkedin.com/in/pavellakov/)k>
