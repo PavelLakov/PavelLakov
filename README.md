@@ -3,9 +3,7 @@
 
 I'm Pavel from Germany, a dedicated developer with a deep passion for both frontend and backend development. My journey through code and design has led me to explore a variety of languages and frameworks, each adding a new layer of expertise to my skill set.
 
-## Pavel Lakov — Full‑Stack & AI Engineer
 
-![Hero](./about.jpg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=safari&logoColor=white)](<your-portfolio-link>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](<your-linkedin-link>)
