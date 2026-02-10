@@ -21,10 +21,14 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - **DevOps:** Docker, GitHub Actions, CI/CD, monitoring/logging, deploys to AWS/Spaces/Render.
 
 ### Recent work
-- **Image Downloader Web** — Streamlit app to grab and download images from any URL. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
-- **WebRTC Video Chat (Vite + React + Node + Socket.IO)** —  App app for video conversationss. [Repo](<https://github.com/PavelLakov/webrtc-video-chat>)
-- **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder>)
-- **Video Compressor**- video compression tool built with Gradio for the user interface and FFmpeg for the actual compression.[Repo](<https://github.com/PavelLakov/Video-Compressor>)
+[![Image Downloader Web](https://img.shields.io/badge/Image%20Downloader%20Web-Live-F9D371?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/image-downloader-web)
+[![Code](https://img.shields.io/badge/Code-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/pavellakov/image-downloader-web)
+
+[![WebRTC Video Chat](https://img.shields.io/badge/WebRTC%20Video%20Chat-Repo-0A66C2?style=flat-square&logo=webrtc&logoColor=white)](https://github.com/PavelLakov/webrtc-video-chat)
+
+[![Cipher Decoder/Encoder](https://img.shields.io/badge/Cipher%20Decoder%2FEncoder-Repo-6e5494?style=flat-square&logo=python&logoColor=white)](https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder)
+
+[![Video Compressor](https://img.shields.io/badge/Video%20Compressor-Repo-FF5F6D?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/PavelLakov/Video-Compressor)
 
 ### Tech I rely on
 `Python` · `FastAPI` · `Django` · `Flask` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `HTML/CSS/Tailwind` · `PostgreSQL` · `MongoDB` · `Vector DBs (Pinecone/Chroma)` · `Docker` · `Hugging Face` · `OpenAI API` · `LangChain`
