@@ -40,7 +40,7 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - Better DX with Turbo/PNPM monorepos for full‑stack apps.
 
 ### Outside of code
-Trail runs, cycling, football; travel for fresh ideas and perspective.
+jogging to clear my head, strength training to build discipline and consistency, martial arts to stay sharp and focused, and getting lost in good books for perspective and fresh thinking.
 
 ### Contact
 
