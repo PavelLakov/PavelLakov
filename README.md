@@ -34,8 +34,9 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 [![Video Compressor](https://img.shields.io/badge/Video%20Compressor-FF5F6D?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/PavelLakov/Video-Compressor)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/Video-Compressor)
 
-[![YouTube Playlist Downloader](https://img.shields.io/badge/YouTube%20Playlist%20Downloader-Live-ff5f6d?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/youtube-playlist-downloader)
+[![Space](https://img.shields.io/badge/Space-YouTube%20Playlist%20Downloader-ff5f6d?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/youtube-playlist-downloader-ui)
+
 
 
 ### Tech I rely on
