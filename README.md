@@ -21,7 +21,7 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - **DevOps:** Docker, GitHub Actions, CI/CD, monitoring/logging, deploys to AWS/Spaces/Render.
 
 ### Recent work
-- **Image Downloader Web — Streamlit app to grab and download images from any URL. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
+- **Image Downloader Web** — Streamlit app to grab and download images from any URL. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
 - **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<[link](https://github.com/PavelLakov/-Video-Converter)>)
 - **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder>)
 - **Video Compressor**- video compression tool built with Gradio for the user interface and FFmpeg for the actual compression.[Repo](<https://github.com/PavelLakov/Video-Compressor>)
