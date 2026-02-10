@@ -3,63 +3,44 @@
 
 I'm Pavel from Germany, a dedicated developer with a deep passion for both frontend and backend development. My journey through code and design has led me to explore a variety of languages and frameworks, each adding a new layer of expertise to my skill set.
 
-### My Expertise:
-- **Frontend Development:** Mastering the art of creating engaging and responsive interfaces with **HTML** and **CSS**.
-- **Backend Development:** Building robust and scalable applications using **Python** with **Django** and **Flask**.
-- **JavaScript:** Crafting dynamic and interactive web applications.
-- **UI/UX Design:** Focusing on creating intuitive and user-friendly designs.
-- **Wireframing:** Bringing ideas to life with clear and detailed wireframes.
+## Pavel Lakov — Full‑Stack & AI Engineer
 
-### Technologies I Love:
-- **Python:** My go-to for backend development.
-- **JavaScript:** Essential for making the web interactive.
-- **Django & Flask:** Two of my favorite frameworks for building powerful and efficient applications.
-- **HTML & CSS:** The foundation of every great web interface.
-### Language Proficiency
+![Hero](./about.jpg)
 
-Here's a visual representation of my proficiency with various technologies:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=safari&logoColor=white)](<your-portfolio-link>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](<your-linkedin-link>)
+[![Hugging Face](https://img.shields.io/badge/Space-Image%20Downloader-F9D371?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/image-downloader-web)
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Python-90%25-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Proficiency" style="margin-right: 10px;" />
-  
-</div>
+I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI features—shipped with automation and observability.
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Proficiency" style="margin-right: 10px;" />
- 
-</div>
+### What I do
+- **Frontend:** React / Next.js, TypeScript, Tailwind, responsive UI/UX systems, design handoff.
+- **Backend:** Python (FastAPI, Django, Flask), REST/GraphQL, auth, background jobs, caching, testing.
+- **AI/ML:** OpenAI API, embeddings/RAG, lightweight model serving, prompt tooling, data pipelines.
+- **DevOps:** Docker, GitHub Actions, CI/CD, monitoring/logging, deploys to AWS/Spaces/Render.
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Django-80%25-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django Proficiency" style="margin-right: 10px;" />
-  
-</div>
+### Recent work
+- **Image Downloader Web** — Streamlit app that resolves photo pages to direct images via oEmbed + heuristics. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
+- **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<link>)
+- **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<link>)
+- **RAG Demo** — Embeddings + vector search over docs with a small FastAPI backend. [Repo](<link>)
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Flask-75%25-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Proficiency" style="margin-right: 10px;" />
-  
-</div>
+### Tech I rely on
+`Python` · `FastAPI` · `Django` · `Flask` · `TypeScript` · `React` · `Next.js` · `HTML/CSS/Tailwind` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions` · `AWS` · `Hugging Face`
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-95%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS Proficiency" style="margin-right: 10px;" />
-  
-</div>
+### How I work
+- Pragmatic, test‑first APIs with clear contracts.
+- Componentized frontends with sensible design tokens.
+- CI/CD by default; small, reviewable PRs.
+- Observability: metrics/logs early to de‑risk launches.
 
-## My GitHub Stats
+### Currently learning
+- Smaller, efficient LLM serving + prompt guards.
+- Better DX with Turbo/PNPM monorepos for full‑stack apps.
 
-![Pavel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelLakov&show_icons=true&theme=radical)
+### Outside of code
+Trail runs, cycling, football; travel for fresh ideas and perspective.
 
-
-## My GitHub Contributions
-
-![Pavel's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PavelLakov&theme=radical)
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelLakov&layout=compact&theme=radical)
-
-### A Bit About Me:
-When I'm not coding, I thrive on seeking out new challenges and learning opportunities. I have a deep appreciation for the great outdoors, whether it’s hiking through lush forests, cycling across scenic trails, or playing a game of soccer. I find that engaging in sports and outdoor activities helps to clear my mind and inspire my creativity.
-
-Travel and adventure are also close to my heart. I love exploring different countries, immersing myself in their cultures, and discovering new landscapes. From mountain treks to coastal runs, I’m always eager for the next adventure and the excitement of experiencing something new.
-
-
+### Contact
+- Email: <your email>
+- LinkedIn: <your-linkedin-link>
