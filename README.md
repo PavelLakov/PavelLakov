@@ -22,6 +22,7 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<[link](https://github.com/PavelLakov/-Video-Converter)>)
 - **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder>)
 - **RAG Demo** — Embeddings + vector search over docs with a small FastAPI backend. [Repo](<link>)
+- **Video Compressor**- video compression tool built with Gradio for the user interface and FFmpeg for the actual compression.[Repo](<[link](https://github.com/PavelLakov/Video-Compressor)>)
 
 ### Tech I rely on
 `Python` · `FastAPI` · `Django` · `Flask` · `TypeScript` · `React` · `Next.js` · `HTML/CSS/Tailwind` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions` · `AWS` · `Hugging Face`
