@@ -42,4 +42,4 @@ Trail runs, cycling, football; travel for fresh ideas and perspective.
 
 ### Contact
 - Email: <pavel.lakov@gmail.com>
-- LinkedIn: <(https://www.linkedin.com/in/pavellakov/)>
+- LinkedIn: <https://www.linkedin.com/in/pavellakov/>
