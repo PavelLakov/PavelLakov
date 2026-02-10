@@ -4,10 +4,11 @@
 I'm Pavel from Germany, a dedicated developer with a deep passion for both frontend and backend development. My journey through code and design has led me to explore a variety of languages and frameworks, each adding a new layer of expertise to my skill set.
 
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=safari&logoColor=white)](<your-portfolio-link>)
+![Portfolio](https://img.shields.io/badge/Portfolio-Primary-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://pavellakopv.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://pavel-react-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](<your-linkedin-link>)
 [![Hugging Face](https://img.shields.io/badge/Space-Image%20Downloader-F9D371?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/image-downloader-web)
+
 
 I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI features—shipped with automation and observability.
 
@@ -21,7 +22,7 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 - **Image Downloader Web** — Streamlit app that resolves photo pages to direct images via oEmbed + heuristics. [Live](https://huggingface.co/spaces/pavellakov/image-downloader-web) · [Code](https://github.com/pavellakov/image-downloader-web)
 - **Video Converter** — Flask + JS app for browser-based video compression. [Repo](<[link](https://github.com/PavelLakov/-Video-Converter)>)
 - **Cipher Decoder/Encoder** — Python utility for quick text ciphers. [Repo](<https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder>)
-- **RAG Demo** — Embeddings + vector search over docs with a small FastAPI backend. [Repo](<link>)
+-
 - **Video Compressor**- video compression tool built with Gradio for the user interface and FFmpeg for the actual compression.[Repo](<https://github.com/PavelLakov/Video-Compressor>)
 
 ### Tech I rely on
