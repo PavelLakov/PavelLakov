@@ -31,8 +31,9 @@ I build end‑to‑end web products—fast UIs, reliable APIs, and practical AI 
 [![Cipher Decoder/Encoder](https://img.shields.io/badge/Cipher%20Decoder%2FEncoder-6e5494?style=flat-square&logo=python&logoColor=white)](https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/Caesar-Cipher-Decoder-and-Encoder)
 
-[![Video Compressor](https://img.shields.io/badge/Video%20Compressor-FF5F6D?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/PavelLakov/Video-Compressor)
+[![Video Compressor](https://img.shields.io/badge/Video%20Compressor-Live-FF5F6D?style=flat-square&logo=ffmpeg&logoColor=white)](https://huggingface.co/spaces/pavellakov/video-compressor)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/Video-Compressor)
+
 
 [![YouTube Playlist Downloader](https://img.shields.io/badge/YouTube%20Playlist%20Downloader-Live-ff5f6d?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/pavellakov/youtube-playlist-downloader)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/PavelLakov/youtube-playlist-downloader-ui)
